@@ -11,17 +11,6 @@ A sample dataset for training and testing
 
 Models Included
 
-Linear Regression – Basic linear relationship between independent and dependent variables.
-
-Multiple Regression – Linear regression with multiple predictors.
-
-Polynomial Regression – Captures non-linear relationships by transforming features.
-
-Ridge Regression – Linear regression with L2 regularization to reduce overfitting.
-
-Lasso Regression – Linear regression with L1 regularization for feature selection.
-
-Elastic Net Regression – Combines L1 and L2 regularization.
 
 Datasets
 
