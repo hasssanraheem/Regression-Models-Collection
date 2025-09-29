@@ -3,17 +3,7 @@ Regression Models Collection
 
 This repository contains implementations of seven major regression techniques in Python. Each model is presented in its own folder with a dedicated dataset, clean code, and usage instructions. It is designed as a learning and reference resource for students, data scientists, and developers exploring regression techniques.
 
-Repository Structure
-Regression-Models-Collection/
-│
-├── Linear_Regression/
-├── Multiple_Regression/
-├── Polynomial_Regression/
-├── Ridge_Regression/
-├── Lasso_Regression/
-├── ElasticNet_Regression/
-└── Support_Vector_Regression/
-Each folder includes:
+
 
 Python implementation of the model
 
