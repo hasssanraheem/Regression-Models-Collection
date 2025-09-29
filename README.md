@@ -23,3 +23,5 @@ Datasets are included directly within each subfolder, so you can run each model 
 Replace the provided datasets with your own data to experiment.
 
 Support Vector Regression (SVR) – Uses support vector machines for regression tasks.
+
+Note: This repository provides implementations of the six regression models in both Python and R. Each model folder contains code examples and datasets for both languages, enabling users to learn and experiment in their preferred environment.
